@@ -1,0 +1,1 @@
+Esse exercício contem em gravar um video explicando como foi aplicado a programação em cima do desafio estipulado.
